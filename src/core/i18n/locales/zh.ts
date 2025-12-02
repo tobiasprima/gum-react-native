@@ -1,4 +1,3 @@
-// src/core/i18n/locales/zh.ts
 export const zh = {
   premium: {
     backLabel: '<',
